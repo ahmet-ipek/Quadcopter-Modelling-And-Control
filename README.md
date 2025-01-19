@@ -34,6 +34,8 @@ Axes:
 - y: Points to the right (Right).
 - z: Points downward (Down).
 
-![image](https://github.com/user-attachments/assets/cbfe1ada-4564-4407-b615-ef6fba6dec0b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbfe1ada-4564-4407-b615-ef6fba6dec0b" width="600" />
+</p>
 
-0000000000000
+
