@@ -6,7 +6,8 @@ A quadcopter is a multirotor aerial vehicle with four rotors, allowing it to hov
 
 The purpose of this section is to explain how the translational and rotational dynamics of the quadcopter are derived, with an emphasis on:
 
-Forces and moments acting on the quadcopter.
-Translational dynamics that govern the movement in 3D space.
-Rotational dynamics that control orientation (roll, pitch, and yaw).
+- Forces and moments acting on the quadcopter.
+- Translational dynamics that govern the movement in 3D space.
+- Rotational dynamics that control orientation (roll, pitch, and yaw).
+
 These equations form the basis of the quadcopter’s simulation and control system, implemented in MATLAB and Simulink. They allow us to model the quadcopter's response to motor inputs, environmental forces, and trajectory-following commands.
