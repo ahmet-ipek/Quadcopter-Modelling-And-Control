@@ -21,15 +21,19 @@ To describe the motion of the quadcopter, two coordinate frames are used:
 The inertial frame is a fixed reference frame used to define the global position and orientation of the quadcopter. It is often represented as an Earth-centered frame:
 
 Axes:
-X: Points North.
-Y: Points East.
-Z: Points Downward (assuming a NED—North-East-Down convention).
+-X: Points North.
+-Y: Points East.
+-Z: Points Downward (assuming a NED—North-East-Down convention).
 
 2.2. Body Frame
 
 The body frame is a moving frame attached to the quadcopter's center of gravity (CoG). It rotates with the quadcopter:
 
 Axes:
-x: Points forward (Front).
-y: Points to the right (Right).
-z: Points downward (Down).
+-x: Points forward (Front).
+-y: Points to the right (Right).
+-z: Points downward (Down).
+
+![image](https://github.com/user-attachments/assets/cbfe1ada-4564-4407-b615-ef6fba6dec0b)
+
+0000000000000
