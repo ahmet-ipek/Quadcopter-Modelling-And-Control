@@ -39,4 +39,9 @@ Axes:
   <img src="https://github.com/user-attachments/assets/65d30124-5033-4627-8e8d-f965a35f9d86" width="300" />
 </p>
 
+3. Forces Acting on the Quadcopter
+4. Moments Acting on the Quadcopter
+5. Translational Dynamics
+6. Rotational Dynamics
+7. Implementation in Simulink
 
