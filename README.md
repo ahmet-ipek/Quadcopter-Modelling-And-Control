@@ -40,8 +40,11 @@ Axes:
 </p>
 
 3. Forces Acting on the Quadcopter
-4. Moments Acting on the Quadcopter
-5. Translational Dynamics
-6. Rotational Dynamics
-7. Implementation in Simulink
+
+   The motion of a quadcopter is governed by forces acting on it, primarily thrust, gravity, and aerodynamic drag. Understanding these forces is crucial for deriving the translational dynamics. Below, we explain each force in detail:
+   
+5. Moments Acting on the Quadcopter
+6. Translational Dynamics
+7. Rotational Dynamics
+8. Implementation in Simulink
 
